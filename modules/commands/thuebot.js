@@ -20,7 +20,7 @@ const axios = global.nodemodule["axios"];
 const request = global.nodemodule["request"];
 const fs = global.nodemodule["fs-extra"];
   var link = [
-"https://i.imgur.com/WeyDnMG.jpeg"
+"https://imgur.com/a/fhDQhNM.mp4"
   ];
   var max = Math.floor(Math.random() * 382);  
   var min = Math.floor(Math.random() * 1);
